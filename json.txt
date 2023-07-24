@@ -1,0 +1,2 @@
+1) B is correct. A is incorrect because keys must be strings in JSON. C is incorrect because strings must always use double quotes in JSON.
+2) A is correct. B and C are both incorrect because they do not have a key for the array.
